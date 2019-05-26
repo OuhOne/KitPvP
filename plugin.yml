@@ -1,0 +1,16 @@
+name: KitUI
+main: Main\Main
+api: 3.8.2
+version: 1.0.0
+author: bySentixPE
+commands:
+    kit:
+        description: Open the KitUI
+    money:
+        description: See your KitUI Money
+    setmoney:
+        description: Change KitUI Money
+        permission: setmoney.use
+        default: OP
+    stats:
+        description: See your KitUI Stats
